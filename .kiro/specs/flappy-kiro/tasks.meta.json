@@ -1,0 +1,228 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create project scaffolding and HTML entry point": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867963178
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867975339
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868743663
+      }
+    ],
+    "1.2 Define constants and configuration module (`src/constants.js`)": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964498
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867976220
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868744426
+      }
+    ],
+    "2.1 Implement `src/physics.js` with pure physics functions": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964640
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868750265
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869170533
+      }
+    ],
+    "3.1 Implement `src/obstacle-generator.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964699
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868751179
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869171306
+      }
+    ],
+    "4.1 Implement `src/collision-detector.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964764
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868752140
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869172315
+      }
+    ],
+    "5.1 Implement `src/score-counter.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964830
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868753132
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869173304
+      }
+    ],
+    "6. Checkpoint - Core logic modules complete": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867964898
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869198623
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869203254
+      }
+    ],
+    "7.1 Implement `src/state-manager.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965031
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869213137
+      }
+    ],
+    "7.2 Implement `src/input-handler.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965096
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869214042
+      }
+    ],
+    "8.1 Implement `src/audio-manager.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965164
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869214975
+      }
+    ],
+    "9.1 Implement `src/renderer.js`": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965284
+      },
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869216111
+      }
+    ],
+    "10.1 Implement `src/game-loop.js` — main orchestrator": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965361
+      }
+    ],
+    "10.3 Implement canvas scaling and responsive resize": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965417
+      }
+    ],
+    "11. Final checkpoint - Full integration complete": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787867965483
+      }
+    ],
+    "1. Set up project structure and core configuration": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787868744565
+      }
+    ],
+    "2. Implement physics module": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869170685
+      }
+    ],
+    "3. Implement obstacle generator module": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869171592
+      }
+    ],
+    "4. Implement collision detection module": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869172453
+      }
+    ],
+    "5. Implement score counter module": [
+      {
+        "executionId": "400e3668-f3c9-43c9-85cd-1262c01edf17",
+        "chatSessionId": "sess_e3758de0-12df-4d5b-bc8f-632a90e03a11",
+        "timestamp": 1787869173374
+      }
+    ]
+  }
+}
